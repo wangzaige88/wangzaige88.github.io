@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wangzaige</title>
+  <icon>http://wangzaige88.github.io/icon.png</icon>
+  <subtitle>task2</subtitle>
+  <link href="http://wangzaige88.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wangzaige88.github.io/"/>
+  <updated>2022-09-14T12:56:44.513Z</updated>
+  <id>http://wangzaige88.github.io/</id>
+  
+  <author>
+    <name>Dexin Huang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome!</title>
+    <link href="http://wangzaige88.github.io/2022/09/14/hello-world/"/>
+    <id>http://wangzaige88.github.io/2022/09/14/hello-world/</id>
+    <published>2022-09-14T09:01:05.027Z</published>
+    <updated>2022-09-14T12:56:44.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;@[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;一、自我介绍&quot;&gt;&lt;a href=&quot;#一、自我介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
